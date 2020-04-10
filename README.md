@@ -4,4 +4,4 @@ This is the source code for `FearValleyNetworking.dll`, found in both the reposi
 
 Originally created by Gavin Lochtefeld, [@lochga01](https://www.github.com/lochga01).
 
-Documentation created with [Doxygen](http://www.doxygen.nl/).
+Documentation created with [Doxygen](http://www.doxygen.nl/). You can read through the documentation [here](https://fearfulflamingos.github.io/fear_valley_networking/).
