@@ -1,4 +1,7 @@
-﻿namespace FearValleyNetwork
+﻿/// <summary>
+/// Definitions for network commands passed between the client and server.
+/// </summary>
+namespace FearValleyNetwork
 {
     /// <summary>
     /// Defines the network operation codes used by all network commands.

@@ -19,7 +19,7 @@
         public int TroopID { set; get; }
         /// <summary>Team of the troop to remove.</summary>
         public int TeamNum { set; get; }
-        ///<summary>Check if this is causing an enemy to retreat.</summary>
+        /// <summary>Check if this is causing an enemy to retreat.</summary>
         public bool ForceEnemyToRetreat { set; get; }
     }
 }

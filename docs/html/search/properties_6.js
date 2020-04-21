@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['operationcode_76',['OperationCode',['../class_fear_valley_network_1_1_net_msg.html#aab2df5585ed68063358036b5f2b6bd52',1,'FearValleyNetwork::NetMsg']]]
+  ['newx_77',['NewX',['../class_fear_valley_network_1_1_net___m_o_v_e.html#a6e810144c2e82ce89274b501b1414a23',1,'FearValleyNetwork::Net_MOVE']]],
+  ['newz_78',['NewZ',['../class_fear_valley_network_1_1_net___m_o_v_e.html#a8fb79ba52dca2d814d4973659f8cd058',1,'FearValleyNetwork::Net_MOVE']]]
 ];
