@@ -40,7 +40,9 @@ namespace FearValleyNetwork
             /// <summary>Server command to send amount of spells.</summary>
             SendMagic = 5,
             /// <summary>Server command to allow/disallow all controls.</summary>
-            ToggleControls = 60
+            ToggleControls = 60,
+            /// <summary>Server command to pass an updated enemy name.</summary>
+            UpdateEnemyName = 61
         }
     }
 
