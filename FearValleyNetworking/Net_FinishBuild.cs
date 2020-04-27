@@ -17,7 +17,5 @@
 
         /// <summary>Number of spells the client bought.</summary>
         public int MagicBought { set; get; }
-        /// <summary>Public username the player wishes to present.</summary>
-        public string Username { set; get; }
     }
 }
