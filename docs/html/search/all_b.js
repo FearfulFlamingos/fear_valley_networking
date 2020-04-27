@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['weapontype_36',['WeaponType',['../class_fear_valley_network_1_1_net___add_troop.html#a83d49fd517111dbfaac8c54e27404a99',1,'FearValleyNetwork::Net_AddTroop']]]
+  ['username_36',['Username',['../class_fear_valley_network_1_1_net___finish_build.html#aaa1e34d658a3b76417634eca22ddf5b9',1,'FearValleyNetwork::Net_FinishBuild']]]
 ];
